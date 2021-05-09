@@ -39,9 +39,7 @@ Download anaconda from here https://www.anaconda.com/distribution/#download-sect
 
 5.  A proper php-language environment like xampp,remove htdocs folder and replace that with htdocs in this repo
 
-6. Clone or Download this repo 
 
-> git clone https://github.com/mad-skull/accident-detection.git
 
 # DEMO
 
